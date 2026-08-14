@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/Project Wk5 - VMS/Week 5 Presentation/VMS Naive Tribe Presentation.html"
+    }
+  ]
+}
